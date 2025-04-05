@@ -43,6 +43,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff&style=for-the-badge)
  
 </p>
 
