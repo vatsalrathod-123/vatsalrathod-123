@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/vatsal-rathod-599828327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vatsal-rathod-599828327/" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_vatsalrathod" target="blank">
+ <p>
+  
  ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+ </p>
 </a>
 <a href="https://discord.gg/vatsalrathod123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vatsalrathod123" height="30" width="40" /></a>
 </p>
