@@ -35,12 +35,13 @@ Here are some ideas to get you started:
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 </p>
 
-### - Editors/IDEs... and Tools...
+### - <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/> Editors/IDEs... and Tools... <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>
 <p align="center">
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
