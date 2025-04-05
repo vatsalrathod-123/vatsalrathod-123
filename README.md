@@ -1,6 +1,10 @@
  <h1 align="center">Hi 👋, I'm Rathod Vatsal</h1>
 <h3 align="center">A passionate(Would be) MERN-Stack developer from India</h3>
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Check Me Out</h1>
+
+<p>Welcome to my Github! </br> I'm Vatsal, passionate programmer from <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/india.png" width="13"/> <b>Gujarat, India</b> currently an undergraduate student.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://linkedin.com/in/vatsal-rathod-599828327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vatsal-rathod-599828327/" height="30" width="40" /></a> -->
