@@ -10,8 +10,8 @@
 <!-- <a href="https://discord.gg/vatsalrathod123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vatsalrathod123" height="30" width="40" /></a> -->
 
  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/vatsalrathod123)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badges)](https://instagram.com/i_am_vatsalrathod)
- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badges)](https://linkedin.com/in/vatsal-rathod-599828327/)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/i_am_vatsalrathod)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/vatsal-rathod-599828327/)
 </p>
 
 ### - <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>  Languages...  <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>
