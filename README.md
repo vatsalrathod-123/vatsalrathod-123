@@ -3,11 +3,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vatsal-rathod-599828327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vatsal-rathod-599828327/" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_vatsalrathod" target="blank">
+<!-- <a href="https://linkedin.com/in/vatsal-rathod-599828327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vatsal-rathod-599828327/" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/i_am_vatsalrathod" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_am_vatsalrathod" height="30" width="40" />
-</a>
-<a href="https://discord.gg/vatsalrathod123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vatsalrathod123" height="30" width="40" /></a>
+</a> -->
+<!-- <a href="https://discord.gg/vatsalrathod123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vatsalrathod123" height="30" width="40" /></a> -->
+
+ [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/vatsalrathod123)
 </p>
 
 ### - <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>  Languages...  <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>
